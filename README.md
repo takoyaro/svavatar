@@ -11,7 +11,7 @@ Svavatar is a [Svelte](https://svelte.dev) component wrapping [Dicebear's Avatar
 
   - Import the component in your application
     - ```js
-      import Svavatar from {svavatar}
+      import {Svavatar} from 'svavatar'
        ```
   - Use the component like any Svelte component and pass the mandatory `type` parameter, a `seed` and `options` as separate, individual parameters. Example:
     - ```js

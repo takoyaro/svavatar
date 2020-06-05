@@ -70,7 +70,7 @@
     "test": "start-server-and-test dev http://localhost:5000 cy:run"
   },
   "svelte": "src/components/components.module.js",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "dependencies": {
     "@dicebear/avatars": "4.2.0",
     "@dicebear/avatars-bottts-sprites": "4.2.0",
