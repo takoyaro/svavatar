@@ -1,6 +1,6 @@
 # Svavatar
 
-[![Svavatar](https://gistcdn.githack.com/takoyaro/598dbd30e80846059b6a354d3277edba/raw/1cbc3afd32ba97d85f28f79806b1ce452a741568/svavatarlogo.svg)]
+[![Svavatar](https://gistcdn.githack.com/takoyaro/598dbd30e80846059b6a354d3277edba/raw/1cbc3afd32ba97d85f28f79806b1ce452a741568/svavatarlogo.svg)
 
 Svavatar is a [Svelte](https://svelte.dev) component wrapping [Dicebear's Avatars](https://avatars.dicebear.com)
 
