@@ -57,7 +57,7 @@
   "name": "svavatar",
   "repository": {
     "type": "git",
-    "url": "TODO"
+    "url": "https://github.com/takoyaro/svavatar.git"
   },
   "scripts": {
     "build": "rollup -c",
